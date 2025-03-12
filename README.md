@@ -1,4 +1,4 @@
-Our method has been tested on five RGB-T crowd counting models. Here, we provide the poisoned models and dataset specifically for DEFNet.
+We evaluated our method on the RGB-Tcc dataset with five RGB-T crowd counting models. Here, we provide the poisoned models and dataset specifically for DEFNet.
 The DEFNet source code is available at: https://github.com/panyi95/DEFNet
 Download links:
 
